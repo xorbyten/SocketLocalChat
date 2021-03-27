@@ -1,0 +1,16 @@
+D:\Documents\VSProj\ServerConsole\ServerConsole\bin\Debug\net5.0\ServerConsole.exe
+D:\Documents\VSProj\ServerConsole\ServerConsole\bin\Debug\net5.0\ServerConsole.deps.json
+D:\Documents\VSProj\ServerConsole\ServerConsole\bin\Debug\net5.0\ServerConsole.runtimeconfig.json
+D:\Documents\VSProj\ServerConsole\ServerConsole\bin\Debug\net5.0\ServerConsole.runtimeconfig.dev.json
+D:\Documents\VSProj\ServerConsole\ServerConsole\bin\Debug\net5.0\ServerConsole.dll
+D:\Documents\VSProj\ServerConsole\ServerConsole\bin\Debug\net5.0\ref\ServerConsole.dll
+D:\Documents\VSProj\ServerConsole\ServerConsole\bin\Debug\net5.0\ServerConsole.pdb
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ServerConsole.csprojAssemblyReference.cache
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ServerConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ServerConsole.AssemblyInfoInputs.cache
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ServerConsole.AssemblyInfo.cs
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ServerConsole.csproj.CoreCompileInputs.cache
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ServerConsole.dll
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ref\ServerConsole.dll
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ServerConsole.pdb
+D:\Documents\VSProj\ServerConsole\ServerConsole\obj\Debug\net5.0\ServerConsole.genruntimeconfig.cache

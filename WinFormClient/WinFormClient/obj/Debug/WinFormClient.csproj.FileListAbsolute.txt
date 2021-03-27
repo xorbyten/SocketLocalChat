@@ -1,0 +1,10 @@
+D:\Documents\VSProj\WinFormClient\WinFormClient\bin\Debug\WinFormClient.exe.config
+D:\Documents\VSProj\WinFormClient\WinFormClient\bin\Debug\WinFormClient.exe
+D:\Documents\VSProj\WinFormClient\WinFormClient\bin\Debug\WinFormClient.pdb
+D:\Documents\VSProj\WinFormClient\WinFormClient\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+D:\Documents\VSProj\WinFormClient\WinFormClient\obj\Debug\WinFormClient.Form1.resources
+D:\Documents\VSProj\WinFormClient\WinFormClient\obj\Debug\WinFormClient.Properties.Resources.resources
+D:\Documents\VSProj\WinFormClient\WinFormClient\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+D:\Documents\VSProj\WinFormClient\WinFormClient\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+D:\Documents\VSProj\WinFormClient\WinFormClient\obj\Debug\WinFormClient.exe
+D:\Documents\VSProj\WinFormClient\WinFormClient\obj\Debug\WinFormClient.pdb
